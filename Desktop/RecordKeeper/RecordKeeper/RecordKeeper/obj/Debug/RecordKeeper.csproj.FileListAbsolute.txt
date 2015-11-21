@@ -1,0 +1,15 @@
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\bin\Debug\RecordKeeper.exe.config
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\bin\Debug\RecordKeeper.exe
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\bin\Debug\RecordKeeper.pdb
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.AddUpdateFunds.resources
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.AddMember.resources
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.frmDonations.resources
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.frmFunds.resources
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.frmMain.resources
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.frmMembers.resources
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.Properties.Resources.resources
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.csproj.GenerateResource.Cache
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.exe
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.pdb
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Rohan\Documents\Visual Studio 2012\Projects\RecordKeeper\RecordKeeper\obj\Debug\RecordKeeper.AddDonation.resources
